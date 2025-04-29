@@ -11,7 +11,7 @@ import SwiftUI
 struct walletboxApp: App {
     var body: some Scene {
         WindowGroup {
-            WalletStackView()
+            HomeScreen()
         }
     }
 }
